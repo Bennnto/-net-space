@@ -1,12 +1,12 @@
-## .Net PlayGround 
+## .Net PlayGround 🛜
 # Purpose 
   - to practice and experiment in .net project on with codespace devcontainer
 # Project Lists
-  - Console Inventory App
+  - 1️⃣Console Inventory App💴
 
 # Console Inventory App
   - This app contain with 4 sub method
-    - Add Item to inventory : this include generate item no. in 4 digits format + Save data into .txt file in string line format
+    - Add Item to inventory : this include generate item no. in 4 digits 0️⃣0️⃣0️⃣1️⃣format + Save data into .txt file in string line format
     - Search Product : this search function use item no. 4 digits reference and read stored data in .txt file
     - List Product price : this function use reference price and list all the price below to equal the reference price read data from .txt file
     - Inventory Analyst : this function seperate into 2 sub-function
