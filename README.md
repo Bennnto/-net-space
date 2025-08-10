@@ -2,12 +2,10 @@
 ## Purpose 
   - to practice and experiment in .net project on with codespace devcontainer
 ## Project Lists
-|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |                 Project                                         |                              .NET
 |-----------------------------------------------------------------|-------------------------------------------------------------------------------|
 |  - 1️⃣Console Inventory App💴                                    |                  Console App
-|-------------------------------------------------------------------------------------------------------------------------------------------------|
-### 1️⃣ Console Inventory App
+
   - This app contain with 4 sub method
     - Add Item to inventory ➕ : this include generate item no. in 4 digits 0️⃣0️⃣0️⃣1️⃣ ➡️ 9️⃣9️⃣9️⃣9️⃣ format + Save data into .txt file in string line          format
     - Search Product 🔎 : this search function use item no. 4 digits reference and read stored data in .txt file
