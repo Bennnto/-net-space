@@ -40,4 +40,4 @@
       - change in validate loop in Add Item Product < use Regex to check >      
     - Change Foreground and Background color 
       - use Console.Background | Console.Foreground
-|---------------------------------------̶---------------------̶-------------------------------------------------------------------------------------|
+
