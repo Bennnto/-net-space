@@ -6,6 +6,8 @@
 |-----------------------------------------------------------------|-------------------------------------------------------------------------------|
 |  - 1️⃣Console Inventory App💴                                    |                  Console App
 
+
+ ### Console Inventory App💴 
   - This app contain with 4 sub method
     - Add Item to inventory ➕ : this include generate item no. in 4 digits 0️⃣0️⃣0️⃣1️⃣ ➡️ 9️⃣9️⃣9️⃣9️⃣ format + Save data into .txt file in string line          format
     - Search Product 🔎 : this search function use item no. 4 digits reference and read stored data in .txt file
@@ -16,7 +18,7 @@
          -use double.MinValue for Highest price to compare with all price and substitute with highest price in file
          -use double.MaxValue for Lowest price to compare with all lower than Max value and substitute with lowest price in file
         
-  - **How to use Console Inventory App**
+  ####**How to use Console Inventory App**
     - [ ] Download file ⏬ Inventory.cs
     - [ ] Download file ⏬ Inventory.csproj
     - [ ] Store both files in same directory
@@ -30,7 +32,7 @@
       -  change Inventory.cs file name to > [Program.cs]
       -  then `dotnet build` and `dotnet run`
       
-  - Usage and Amendment Possibility 
+  #####Usage and Amendment Possibility 
     - File that use to store data can be change location and also file name
       - change in var filepath < if you use path should use filepath = path.combine(YOURPATH)
     - ITEM NO. can change format
